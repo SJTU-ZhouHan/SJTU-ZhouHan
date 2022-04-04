@@ -1,3 +1,6 @@
+# The datasets GSE176017 can be found in the Gene Expression Omnibus (https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE176017). 
+# All expression matrix data "*_series_matrix.txt" can be downloaded in the supplementary file "GSE176017_RAW.tar" on the bottom of the website. 
+
 # Install the R packages ####
 library(limma)
 library(Seurat)
